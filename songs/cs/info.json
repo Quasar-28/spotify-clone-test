@@ -1,4 +1,9 @@
 {
     "title": "Copyright Songs",
-    "description": "Cover Songs for you"
+    "description": "Cover Songs for you",
+    "songs":[
+        "Alan Walker  - Sorry.mp3",
+        "Come See The Wonder.mp3",
+        "Jibbs - Chain Hang Low (Crizzly & AFK Remix).mp3"
+    ]
 }

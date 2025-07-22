@@ -1,4 +1,10 @@
 {
     "title": "NCS",
-    "description": "No Copyright Songs for you"
+    "description": "No Copyright Songs for you",
+    "songs" : [
+        "Abroad Again -Jeremy Blake.mp3",
+        "Decimate  - Jeremy Blake .mp3",
+        "Girl On Top - Amy Lynn & The Honey Men .mp3",
+        "Jeremy Blake - Final Girl.mp3"
+    ]
 }
