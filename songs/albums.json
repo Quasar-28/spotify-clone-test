@@ -1,0 +1,53 @@
+[
+  {
+    "folder": "Angry_(mood)",
+    "title": "Angry Mood",
+    "description": "Songs with aggressive, intense vibes"
+  },
+  {
+    "folder": "Bright_(mood)",
+    "title": "Bright Mood",
+    "description": "Uplifting and energetic tracks"
+  },
+  {
+    "folder": "Chill_(mood)",
+    "title": "Chill Mood",
+    "description": "Relaxed and calming songs"
+  },
+  {
+    "folder": "cs",
+    "title": "CS Collection",
+    "description": "Songs related to programming or CS themes"
+  },
+  {
+    "folder": "Dark_(mood)",
+    "title": "Dark Mood",
+    "description": "Mysterious and moody tunes"
+  },
+  {
+    "folder": "Funky_(mood)",
+    "title": "Go Funky",
+    "description": "Lets go Funky"
+  },
+  {
+    "folder": "karan aujla",
+    "title": "Karan Aujla",
+    "description": "Karan Aujla for you"
+  },
+  {
+    "folder": "Love_(mood)",
+    "title": "I Love You",
+    "description": "Love is in the air"
+  },
+  {
+    "folder": "ncs",
+    "title": "NCS",
+    "description": "No Copyright Songs for you"
+  },
+  {
+    "folder": "Uplifting_(mood)",
+    "title": "Get up",
+    "description": "You can do it!"
+  }
+
+]
